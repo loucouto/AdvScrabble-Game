@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\ViewClass\Map\LoadMap.cs">
+    <Files>
+      <File FileName="Assets\Script\ViewClass\MainMenu\UIManagerMenu.cs" Line="111" Column="37" />
+      <File FileName="Assets\Script\ViewClass\Level\UIManager.cs" Line="98" Column="19" />
+      <File FileName="Assets\Script\ViewClass\Level\ListPieces.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ViewClass\Map\LoadMap.cs" Line="939" Column="12" />
+      <File FileName="Assets\Script\ViewClass\Level\RemarkedSquared.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ViewClass\Level\PieceManagerLeft.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ViewClass\Level\UndoMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ViewClass\Level\RemarkedNine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ViewClass\General\UICommon.cs" Line="6" Column="14" />
+      <File FileName="Assets\Script\ViewClass\Level\PieceDrag.cs" Line="966" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
